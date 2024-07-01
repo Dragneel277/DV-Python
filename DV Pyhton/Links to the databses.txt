@@ -1,0 +1,3 @@
+For dataset 1:https://www.kaggle.com/datasets/nelgiriyewithana/most-streamed-spotify-songs-2024
+For dataset 2: https://www.kaggle.com/datasets/jainaru/dog-breeds-ranking-best-to-worst
+For dataset 3: https://www.kaggle.com/datasets/zeesolver/data-eng-salary-2024
